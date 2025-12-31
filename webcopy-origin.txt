@@ -1,0 +1,296 @@
+Uri: https://failesensi.com/comments/feed/
+File Name: C:\upsell\failesensi.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://failesensi.com/feed/
+File Name: C:\upsell\failesensi.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://failesensi.com/metodo3/
+File Name: C:\upsell\failesensi.com\metodo3\index.htm
+Content Type: text/html
+
+Uri: https://failesensi.com/wp-content/litespeed/css/0aa87e486d1fbb44482657c929807cfa.css?ver=07cfa
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\0aa87e486d1fbb44482657c929807cfa.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/0e3b2bce367946a986d26db4b9599905.css?ver=99905
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\0e3b2bce367946a986d26db4b9599905.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/0faf7a71e4628792db03cb7c386bd825.css?ver=bd825
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\0faf7a71e4628792db03cb7c386bd825.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/147970ce260d878f31ad9cfed906195f.css?ver=6195f
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\147970ce260d878f31ad9cfed906195f.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/1cbc0c6eb5216894a0654f3cc9471682.css?ver=71682
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\1cbc0c6eb5216894a0654f3cc9471682.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/389aa4fa7e18d58737d9cf7a36b4107c.css?ver=4107c
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\389aa4fa7e18d58737d9cf7a36b4107c.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/3a88c85075c19fffed04d04392f126f0.css?ver=126f0
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\3a88c85075c19fffed04d04392f126f0.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/43da9e72e25dd135d897084667ed4081.css?ver=d4081
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\43da9e72e25dd135d897084667ed4081.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/5d751e325546c03151e68e7682868f35.css?ver=68f35
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\5d751e325546c03151e68e7682868f35.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/6099b38aaa927de981f906ee108deeb5.css?ver=deeb5
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\6099b38aaa927de981f906ee108deeb5.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/6c3ebb2618b483bf4a74bcab3ffcd1a0.css?ver=cd1a0
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\6c3ebb2618b483bf4a74bcab3ffcd1a0.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/6ca5e7b1cfb9c0f168240d4d4dcf9162.css?ver=f9162
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\6ca5e7b1cfb9c0f168240d4d4dcf9162.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/837a3cabf3709c0aae2cbf7708a4a898.css?ver=4a898
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\837a3cabf3709c0aae2cbf7708a4a898.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/83ede61a7a0dc75d71d8ff0af777578b.css?ver=7578b
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\83ede61a7a0dc75d71d8ff0af777578b.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/8628afebdd8e809ac427d39e8193082b.css?ver=3082b
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\8628afebdd8e809ac427d39e8193082b.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/86c07e140f5a8295c5f9a0ee8a268d61.css?ver=68d61
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\86c07e140f5a8295c5f9a0ee8a268d61.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/86ed1c3c752d0192ca2e4de418ca0b28.css?ver=a0b28
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\86ed1c3c752d0192ca2e4de418ca0b28.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/8dc52a617370dfd2f9d8dd5a658607b7.css?ver=607b7
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\8dc52a617370dfd2f9d8dd5a658607b7.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/94f6995241daed821a5d3eae6ec96edf.css?ver=96edf
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\94f6995241daed821a5d3eae6ec96edf.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/96e9ef5195073406f3aa214446b1af64.css?ver=1af64
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\96e9ef5195073406f3aa214446b1af64.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/a36916e28ec31b745a668af6c44dd914.css?ver=dd914
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\a36916e28ec31b745a668af6c44dd914.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/b04b4f8e90e0819b66cfaa2c69da3fb4.css?ver=a3fb4
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\b04b4f8e90e0819b66cfaa2c69da3fb4.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/b60b9f1384e77d384cd7331a78904705.css?ver=04705
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\b60b9f1384e77d384cd7331a78904705.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/ba53da95a75d26aba5eb1569a7be8fcf.css?ver=e8fcf
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\ba53da95a75d26aba5eb1569a7be8fcf.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/c4c54b341fd65a62adf605f93b9c9d96.css?ver=c9d96
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\c4c54b341fd65a62adf605f93b9c9d96.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/c7710b6a105f769ad93690c32ff49f5e.css?ver=49f5e
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\c7710b6a105f769ad93690c32ff49f5e.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/ccfec99927f213a4c5fa82c12191f214.css?ver=1f214
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\ccfec99927f213a4c5fa82c12191f214.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/ce720cd2147843e95ab7615439429792.css?ver=29792
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\ce720cd2147843e95ab7615439429792.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/d3fc728943229730b69ae0e10fda6c66.css?ver=a6c66
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\d3fc728943229730b69ae0e10fda6c66.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/d82105c440ff070c8b4bb39e9d438e29.css?ver=38e29
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\d82105c440ff070c8b4bb39e9d438e29.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/e3d63d64abc359936f16037d8c1be9b0.css?ver=be9b0
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\e3d63d64abc359936f16037d8c1be9b0.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/css/ef802e15c66d6073487d59ca47d5a183.css?ver=5a183
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\css\ef802e15c66d6073487d59ca47d5a183.css
+Content Type: text/css
+
+Uri: https://failesensi.com/wp-content/litespeed/js/071327c4f22e833ebb1f877bdc2e69e4.js?ver=e69e4
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\071327c4f22e833ebb1f877bdc2e69e4.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/litespeed/js/18f3a705989a57edf3d3b643275551ca.js?ver=551ca
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\18f3a705989a57edf3d3b643275551ca.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/litespeed/js/28d1aa66cc902f525db6c4e38eba5e14.js?ver=a5e14
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\28d1aa66cc902f525db6c4e38eba5e14.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/litespeed/js/4607e15ee46dac6838ea47f6b2e1122e.js?ver=1122e
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\4607e15ee46dac6838ea47f6b2e1122e.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/litespeed/js/477b8747489f78f929fc63c76dc0e3a9.js?ver=0e3a9
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\477b8747489f78f929fc63c76dc0e3a9.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/litespeed/js/54afb4331e39627ce54c65ab164e6f82.js?ver=e6f82
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\54afb4331e39627ce54c65ab164e6f82.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/litespeed/js/5a6d051cc569c1ff1a5328a3c5126c54.js?ver=26c54
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\5a6d051cc569c1ff1a5328a3c5126c54.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/litespeed/js/6b4f65dd043bed7c5afa6af3d948b238.js?ver=8b238
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\6b4f65dd043bed7c5afa6af3d948b238.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/litespeed/js/6dfd56b60d14b567f600aba8d38502c2.js?ver=502c2
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\6dfd56b60d14b567f600aba8d38502c2.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/litespeed/js/c7e5bfd2a654e6803e4be8ae0d003639.js?ver=03639
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\c7e5bfd2a654e6803e4be8ae0d003639.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/litespeed/js/fb79805a6c4d02900c64941447cc1b0f.js?ver=c1b0f
+File Name: C:\upsell\failesensi.com\wp-content\litespeed\js\fb79805a6c4d02900c64941447cc1b0f.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-content/plugins/presto-player/img/play-button.svg
+File Name: C:\upsell\failesensi.com\wp-content\plugins\presto-player\img\play-button.svg
+Content Type: image/svg+xml
+
+Uri: https://failesensi.com/wp-content/uploads/2024/07/cropped-Logo-1-180x180.png
+File Name: C:\upsell\failesensi.com\wp-content\uploads\2024\07\cropped-Logo-1-180x180.png
+Content Type: image/png
+
+Uri: https://failesensi.com/wp-content/uploads/2024/07/cropped-Logo-1-192x192.png
+File Name: C:\upsell\failesensi.com\wp-content\uploads\2024\07\cropped-Logo-1-192x192.png
+Content Type: image/png
+
+Uri: https://failesensi.com/wp-content/uploads/2024/07/cropped-Logo-1-32x32.png
+File Name: C:\upsell\failesensi.com\wp-content\uploads\2024\07\cropped-Logo-1-32x32.png
+Content Type: image/png
+
+Uri: https://failesensi.com/wp-content/webp-express/webp-images/uploads/2024/08/1721223456778-300x140.png.webp
+File Name: C:\upsell\failesensi.com\wp-content\webp-express\webp-images\uploads\2024\08\1721223456778-300x140.png.webp
+Content Type: image/webp
+
+Uri: https://failesensi.com/wp-content/webp-express/webp-images/uploads/2024/08/1721223456778.png.webp
+File Name: C:\upsell\failesensi.com\wp-content\webp-express\webp-images\uploads\2024\08\1721223456778.png.webp
+Content Type: image/webp
+
+Uri: https://failesensi.com/wp-content/webp-express/webp-images/uploads/2024/08/1722019156219-300x300.png.webp
+File Name: C:\upsell\failesensi.com\wp-content\webp-express\webp-images\uploads\2024\08\1722019156219-300x300.png.webp
+Content Type: image/webp
+
+Uri: https://failesensi.com/wp-content/webp-express/webp-images/uploads/2024/08/1722892912564-759x1024.jpg.webp
+File Name: C:\upsell\failesensi.com\wp-content\webp-express\webp-images\uploads\2024\08\1722892912564-759x1024.jpg.webp
+Content Type: image/webp
+
+Uri: https://failesensi.com/wp-content/webp-express/webp-images/uploads/2024/08/1722894087808-759x1024.jpg.webp
+File Name: C:\upsell\failesensi.com\wp-content\webp-express\webp-images\uploads\2024\08\1722894087808-759x1024.jpg.webp
+Content Type: image/webp
+
+Uri: https://failesensi.com/wp-content/webp-express/webp-images/uploads/2024/08/1722969248988.png.webp
+File Name: C:\upsell\failesensi.com\wp-content\webp-express\webp-images\uploads\2024\08\1722969248988.png.webp
+Content Type: image/webp
+
+Uri: https://failesensi.com/wp-content/webp-express/webp-images/uploads/2024/11/1732801906286-768x346.png.webp
+File Name: C:\upsell\failesensi.com\wp-content\webp-express\webp-images\uploads\2024\11\1732801906286-768x346.png.webp
+Content Type: image/webp
+
+Uri: https://failesensi.com/wp-includes/js/jquery/jquery.min.js
+File Name: C:\upsell\failesensi.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://failesensi.com/wp-json/
+File Name: C:\upsell\failesensi.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://failesensi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffailesensi.com%2Fmetodo3%2F
+File Name: C:\upsell\failesensi.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://failesensi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffailesensi.com%2Fmetodo3%2F&format=xml
+File Name: C:\upsell\failesensi.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://failesensi.com/wp-json/wp/v2/pages/4990
+File Name: C:\upsell\failesensi.com\wp-json\wp\v2\pages\4990
+Content Type: application/json
+
+Uri: https://failesensi.com/xmlrpc.php?rsd
+File Name: C:\upsell\failesensi.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fast.wistia.com/embed/medias/nv6w3nl0eg/swatch
+File Name: C:\upsell\failesensi.com\embed\medias\nv6w3nl0eg\swatch
+Content Type: image/jpeg
+
+Uri: https://fast.wistia.com/embed/nv6w3nl0eg.js
+File Name: C:\upsell\failesensi.com\embed\nv6w3nl0eg.js
+Content Type: text/javascript
+
+Uri: https://fast.wistia.com/player.js
+File Name: C:\upsell\failesensi.com\player.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Inter:400%2C|Work+Sans:600%2C500%2C300&display=fallback&ver=4.11.18
+File Name: C:\upsell\failesensi.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\upsell\failesensi.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jow.ttf
+File Name: C:\upsell\failesensi.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jow.ttf
+File Name: C:\upsell\failesensi.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jow.ttf
+File Name: C:\upsell\failesensi.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4697646609445738&host=ca-host-pub-2644536267352236
+File Name: C:\upsell\failesensi.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.facebook.com/tr?id=514597244895049&ev=PageView&noscript=1&cd[page_title]=Método+Faile&cd[post_type]=page&cd[post_id]=4990&cd[plugin]=PixelYourSite&cd[user_role]=guest&cd[event_url]=failesensi.com%2Fmetodo3%2F
+File Name: C:\upsell\failesensi.com\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-LJEH6SQ9NK
+File Name: C:\upsell\failesensi.com\gtag\js
+Content Type: application/javascript
+
